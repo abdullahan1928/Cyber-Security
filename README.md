@@ -10,7 +10,7 @@ Let's first talk about teams in cyer security.
 
 Team Name | Team responsibility | Relation with cyber security
 :-- | :--: | :--:
-[Red team](https://en.wikipedia.org/wiki/Red_team#:~:text=A%20red%20team%20is%20a,the%20military%2C%20and%20intelligence%20agencies.) | The Red Team, employees or contractors hired to be Attackers, ethical hackers that work for an organisation finding security holes that a malicious individual could exploit. |Direct
+[Red Team](https://en.wikipedia.org/wiki/Red_team#:~:text=A%20red%20team%20is%20a,the%20military%2C%20and%20intelligence%20agencies.) | The Red Team, employees or contractors hired to be Attackers, ethical hackers that work for an organisation finding security holes that a malicious individual could exploit. |Direct
 [Blue Team](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) | The Blue Team, the organisation’s Defenders, who are responsible for protective measures within an organisation. |Direct
 [Purple Team](https://danielmiessler.com/study/purple-team/#:~:text=A%20Purple%20Team%20is%20a,organization's%20Red%20and%20Blue%20teams.&text=The%20Purple%20Team%20should%20not,existing%20Red%20and%20Blue%20capabilities.) | The primary goal of a Purple Team is to maximise the results of Red Team engagements and improve Blue Team capability. |Direct
 [White Team](https://csrc.nist.gov/glossary/term/white_team) | White Team members include elements of Compliance, Management, Analysts, Logistics and more. These are all-knowing, neutral, third-party individuals who set the rules of engagement, organise teams, set strategy, perform risk assessments and sets plans and monitors progress. |Direct
