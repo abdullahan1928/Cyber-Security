@@ -22,6 +22,7 @@ Team Name | Description | Relation with cyber security
 ## Types of Hacker
 Following are few types of hacker known around the globe.
 
+![TYPES-OF-HACKERS-iff](https://user-images.githubusercontent.com/74107257/138469662-f9b6d9ed-694d-468d-a7d8-9996e9807bc0.jpg)
 
 Types of Hackers | Description
 :-- | :--: 
@@ -34,3 +35,4 @@ Types of Hackers | Description
 [Green Hat Hackers](https://www.dotnek.com/Blog/Security/who-are-green-hat-hackers-what-are-the-charac) | Green hat hackers are beginners in the world of hacking who do not know much about the consequences of the things that they are doing, as well as the security mechanism and the way that web browser works, these people are very interested in learning and raising their awareness in the world of hacking.
 [Purple Hat Hackers](https://www.quora.com/What-is-a-purple-hat-hacker) | A person who practices hacking on their own systems.
 [Hacktivists](https://en.wikipedia.org/wiki/Hacktivism) | These are the types of hackers who break into systems and networks just to draw attention towards a social,political or religion cause. 
+
